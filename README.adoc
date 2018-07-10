@@ -1,4 +1,4 @@
-= Linux Kernel Module Cheat
+= CSU-Course-Redesign-Student-Data-Analysis-2017
 :idprefix:
 :idseparator: -
 :sectanchors:
@@ -9,12 +9,11 @@
 :toclevels: 6
 :toc-title:
 
-# CSU-Course-Redesign-Student-Data-Analysis-2017
 My analysis of a survey sent out to students in redesigned courses at the largest university system in the United States, California State University.
 
+toc::[]
 
-
-## Background
+== Background
 I analyzed and helped create surveys to evaluate a system-wide course redesign with technology effort. The Course Redesign with Technology (CRT) Team supports the CSU 2025 Graduation Initiative through redesigning high- demand, high failure-rate courses and improving access to these courses. CRT funds a comprehensive program assisting faculty across the CSU system to redesign their courses for student success. At the end of the term in which the redesigned course is offered, CRT collects student survey data to measure which teaching and learning tools have been used and their perceived impact on student learning, student opinions on various course dimensions, and whether student confidence levels change as a result of completing a redesigned course. 
 
 To participate in the CRT program, CSU faculty members outline their ideas for changes in the courses they teach in a request for proposal process. CRT encourages them to adopt and adapt "proven practices" that faculty in previous cohorts established using narrative ePortfolios about their redesign processes and outcomes. Faculty selected to participate in CRT are funded and attend the Summer Institute where they learn about new technologies, discuss various pedagogical approaches, and develop learning communities focused on a specific discipline or technology. These courses are then offered to students in the fall and spring who are asked to provide feedback about their experiences through a survey. The survey is able to address:
