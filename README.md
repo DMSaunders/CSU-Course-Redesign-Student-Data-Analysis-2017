@@ -1,7 +1,18 @@
+= Linux Kernel Module Cheat
+:idprefix:
+:idseparator: -
+:sectanchors:
+:sectlinks:
+:sectnumlevels: 6
+:sectnums:
+:toc: macro
+:toclevels: 6
+:toc-title:
+
 # CSU-Course-Redesign-Student-Data-Analysis-2017
 My analysis of a survey sent out to students in redesigned courses at the largest university system in the United States, California State University.
 
-[TOC]
+
 
 ## Background
 I analyzed and helped create surveys to evaluate a system-wide course redesign with technology effort. The Course Redesign with Technology (CRT) Team supports the CSU 2025 Graduation Initiative through redesigning high- demand, high failure-rate courses and improving access to these courses. CRT funds a comprehensive program assisting faculty across the CSU system to redesign their courses for student success. At the end of the term in which the redesigned course is offered, CRT collects student survey data to measure which teaching and learning tools have been used and their perceived impact on student learning, student opinions on various course dimensions, and whether student confidence levels change as a result of completing a redesigned course. 
