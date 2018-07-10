@@ -11,6 +11,15 @@ Danielle Saunders <dmariesaunders@gmail.com>
 :toc: macro
 :toclevels: 6
 :toc-title:
+:icons: font
+ifdef::env-github[]
+:imagesdir: foo/
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
 
 My analysis of a survey sent out to students in redesigned courses at the largest university system in the United States, California State University.
 
@@ -36,7 +45,7 @@ Additional questions can be addressed in the data analysis process as follows:
 ## The Data
 The CRT team requested the course ID from faculty who delivered a redesigned course in spring 2017. Using this ID, they acquired through an internal system-wide process the emails of most of the target population. They emailed *3607* students a link to the survey and received *610* responses. Each student received a specific single-use URL to ensure that a survey can only be completed once by each student. The course survey was deployed May 1st, before final exams. The survey was active for 40 days. Instructors were asked to encourage their students to participate in the survey, and students were incentivized to complete it by having their names entered in a prize raffle. One hundred fifty-four incomplete submissions were removed, leaving *456* complete responses. We did this to simplify the analysis.
 
-[NOTE]
-====
+NOTE:
 See csv files for raw data. 25 rows are provided as an example, but all columns are included. Separate surveys sent out to quarter and semester students produced the two files which I combined. All identifying information has been removed or anonymized including instructor names and classes.
-====
+
+CAUTION: Hi
