@@ -1,16 +1,11 @@
 
 = CSU-Course-Redesign-Student-Data-Analysis-2017
-Danielle Saunders <dmariesaunders@gmail.com>
-
 :idprefix:
 :idseparator: -
 :sectanchors:
 :sectlinks:
 :sectnumlevels: 6
 :sectnums:
-:toc: macro
-:toclevels: 6
-:toc-title:
 :icons: font
 ifdef::env-github[]
 :imagesdir: foo/
@@ -20,6 +15,9 @@ ifdef::env-github[]
 :caution-caption: :fire:
 :warning-caption: :warning:
 endif::[]
+:toc: macro
+:toclevels: 6
+:toc-title: 
 
 My analysis of a survey sent out to students in redesigned courses at the largest university system in the United States, California State University. I've included some general tips :fire: for survey analysis.
 
@@ -54,7 +52,7 @@ Next I created some new independent variables for the analysis.
 
 [options="header"]
 |===
-|variable |explanation
+|variable | 
 
 |`concat_campuscourse`
 |
@@ -70,5 +68,8 @@ Next I created some new independent variables for the analysis.
 
 |===
 
+Most of these changes required sorting the rows, which sometimes causes excel to splice a row, reordering some columns but not others, and corrupting the data. Since I save the file at each step of the process, I was able to frequently compare random samples of my current file with the raw data to check for consistency. If Jon Chou was suddenly female and making completely different comments than in the raw file, then I would retreat to the latest uncorrupted version. And of course I used several random samples at each check. I liked to think the people who bore deep holes into a wheel of cheese to check for consistency.
+
+Getting to the structure of the survey: A bulk of it were programmed question pairs. 
 
 * What is the relationship between perceived frequency of use and perceived efficacy?
