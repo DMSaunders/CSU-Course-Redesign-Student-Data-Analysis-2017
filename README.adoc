@@ -84,7 +84,7 @@ CAUTION: It is recommended to put demographic and otherwise sensitive survey que
 
 Next, I converted blanks to 'Null' or 'NA' (when N/A was actually selected) to help with analysis, created a separate file without comments for use in SPSS. Another version I shaped for use in Tableau. This is where the real witchcraft comes in.
 
-Tableau requires data to be normalized with one dependent variable's value and descriptors per row, and everything else in the row repeated. I used an Excel add-in for the actual reshaping. Example:
+Tableau requires data to be normalized with one dependent variable's value and descriptors per row, and everything else in the row repeated. I used an Excel add-in for the actual reshaping. This move rockets the rows in the file up over 31,000, which I found very entertaining. Example:
 
 [options="header"]
 |===
