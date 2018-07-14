@@ -43,7 +43,7 @@ To participate in the CRT program, CSU faculty members outline their ideas for c
 * How does delivery format affect the outcomes?
 
 == The Data
-The CRT team requested the course ID from faculty who delivered a redesigned course in spring 2017. Using this ID, they acquired through an internal system-wide process the emails of most of the target population. They emailed *3607* students a link to the survey and received *610* responses. Each student received a specific single-use URL to ensure that a survey can only be completed once by each student. The course survey was deployed May 1st, before final exams. The survey was active for 40 days. Instructors were asked to encourage their students to participate in the survey, and students were incentivized to complete it by having their names entered in a prize raffle. One hundred fifty-four incomplete submissions were removed, leaving *456* complete responses. We did this to simplify the analysis.
+The CRT team requested the course ID from faculty who delivered a redesigned course in spring 2017. Using this ID, they acquired through an internal system-wide process the emails of most of the target population. They emailed *3607* students a link to the survey and received *610* responses. Each student received a specific single-use URL to ensure that a survey can only be completed once by each student. The course survey was deployed May 1st, before final exams. The survey was active for 40 days. Instructors were asked to encourage their students to participate in the survey, and students were incentivized to complete it by having their names entered in a prize raffle. One hundred fifty-four incomplete submissions were removed, leaving *456* complete responses. We did this to simplify the analysis. This survey received a response rate of 16.91%.
 
 NOTE: See csv files for raw data after removing 154 incomplete submissions. 25 rows are provided as an example, but all columns are included. Separate surveys sent out to quarter and semester students produced the two files. All identifying information has been removed or anonymized including instructor names and classes.
 
@@ -152,9 +152,11 @@ image::tech.png[tech,75%,75%]
 
 image::spr17stuefftop2_3.png[img, 75%,75%]
 
-They think almost everything is effective. I wondered about a relationship between these two variables and checked:
+They think almost everything is effective. I am emphatic that we refer to this as 'perceived efficacy'. I wondered about a relationship between these two variables and checked:
 
 image::spr17stufreqeff.PNG[img, 75%,75%]
+
+For 18 of the 22 learning tools (82%), frequency was at least moderately correlated with perceived efficacy. Gamma was used for correlations given that it is appropriate for ordinal by ordinal correlation in a nonparametric, non-random sample.
 
 * Do students rate their course highly across several dimensions?
 
