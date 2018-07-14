@@ -19,16 +19,20 @@ endif::[]
 :toclevels: 6
 :toc-title: 
 
-My analysis of a survey sent out to students in redesigned courses at the largest university system in the United States, California State University. I've included some general tips :fire: for survey analysis.
+My analysis of a survey sent out to students in redesigned courses at the largest university system in the United States, California State University. I've included some general tips :fire: for survey analysis. 
+
+TIP: Tools used: SurveyGizmo, Excel, SPSS, QDAMiner, Tableau
+
+[.right.text-center]
+image::vADKt0e0.png[Tiger,200,200]
 
 toc::[]
-
-image:vADKt0e0.png[image]
 
 == Background
 I analyzed and helped create surveys to evaluate a system-wide course redesign with technology effort. The Course Redesign with Technology (CRT) Team supports the CSU 2025 Graduation Initiative through redesigning high- demand, high failure-rate courses and improving access to these courses. CRT funds a comprehensive program assisting faculty across the CSU system to redesign their courses for student success. At the end of the term in which the redesigned course is offered, CRT collects student survey data to measure which teaching and learning tools have been used and their perceived impact on student learning, student opinions on various course dimensions, and whether student confidence levels change as a result of completing a redesigned course. 
 
 To participate in the CRT program, CSU faculty members outline their ideas for changes in the courses they teach in a request for proposal process. CRT encourages them to adopt and adapt "proven practices" that faculty in previous cohorts established using narrative ePortfolios about their redesign processes and outcomes. Faculty selected to participate in CRT are funded and attend the Summer Institute where they learn about new technologies, discuss various pedagogical approaches, and develop learning communities focused on a specific discipline or technology. These courses are then offered to students in the fall and spring who are asked to provide feedback about their experiences through a survey. 
+
 
 == Goals of the Analysis
 
@@ -56,8 +60,8 @@ Next I created some new independent variables for the analysis.
 |===
 |variable | 
 
-|`concat_campuscourse`
-|
+|`Unique_ID`
+|additional step for keeping track of rows
 
 |`offer_status`
 |pulled from our internal data. 'first-time-offered' for a brand new redesigned course or 're-offered' for subsequent iterations
@@ -72,6 +76,12 @@ Next I created some new independent variables for the analysis.
 
 Most of these changes required sorting the rows, which sometimes causes excel to splice a row, reordering some columns but not others, and corrupting the data. Since I save the file at each step of the process, I was able to frequently compare random samples of my current file with the raw data to check for consistency. If Jon Chou was suddenly female and making completely different comments than in the raw file, then I would retreat to the latest uncorrupted version. And of course I used several random samples at each check. I liked to think the people who bore deep holes into a wheel of cheese to check for consistency.
 
-Getting to the structure of the survey: A bulk of it were programmed question pairs. 
+Getting to the structure of the survey: Programmed question pairs made up the bulk, so we could expect the sample sizes for each follow-up question to be all over the board. I renamed and numbered all the survey questions, with the paired questions as #A and #B. 
+
+image::skip logic.png[image,70%,70%, align=text-center]
+
+Then I moved the all the independent variables together in the front for ease of use (facts about the course and student).
+
+NOTE: It is recommended to put demographic and otherwise sensitive survey questions at the end of a survey so as not to scare off the respondent right away.
 
 * What is the relationship between perceived frequency of use and perceived efficacy?
