@@ -158,7 +158,7 @@ They think almost everything is effective. I am emphatic that we refer to this a
 
 image::spr17stufreqeff.PNG[img, 75%,75%]
 
-For 18 of the 22 learning tools (82%), frequency was at least moderately correlated with perceived efficacy. Gamma was used for correlations given that it is appropriate for ordinal by ordinal correlation in a nonparametric, non-random sample.
+For 18 of the 22 learning tools (82%), frequency was at least moderately correlated with perceived efficacy. Gamma was used for correlations given that it is appropriate for ordinal by ordinal correlation in a nonparametric, non-random sample. I believe we should probably measure something else next time, since these appear to be related. This should reinforce my assertion that the efficacy is 'perceived' and subject to bias, in this case it could be the familiarity heuristic.
 
 * Do students rate their course highly across several dimensions?
 
