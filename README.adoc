@@ -21,7 +21,7 @@ endif::[]
 
 My analysis of a survey sent out to students in redesigned courses at the largest university system in the United States, California State University. I've included some general tips for survey analysis. 
 
-TIP: Tools used: SurveyGizmo, Excel, SPSS, QDAMiner, Tableau
+TIP: Tools used: SurveyGizmo, Excel, SPSS, QDAMiner, Nvivo, Tableau
 
 image::vADKt0e0.png[image,200,200]
 
@@ -74,7 +74,7 @@ Next I created some new independent variables for the analysis.
 
 Most of these changes required sorting the rows, which sometimes causes excel to splice a row, reordering some columns but not others, and corrupting the data. Since I save the file at each step of the process, I was able to frequently compare random samples of my current file with the raw data to check for consistency. If Jon Chou was suddenly female and making completely different comments than in the raw file, then I would retreat to the latest uncorrupted version. And of course I used several random samples at each check. I liked to think the people who bore deep holes into a wheel of cheese to check for consistency.
 
-Getting to the structure of the survey: Programmed question pairs made up the bulk, so we could expect the sample sizes for each follow-up question to be all over the board. I renamed and numbered all the survey questions, with the paired questions as #A and #B. 
+Getting to the structure of the survey: Programmed question pairs made up the bulk, so we could expect the sample sizes for each follow-up question to be all over the board. I'm extremely glad someone on the team was willing to program the surveys, since it allowed us to capture a lot of information without asking irrelevant questions and making an already monster survey behemoth. I renamed and numbered all the survey questions, with the paired questions as 12A1, 12A2, 12B1, and 12B2 belonging to question 12, for example. 
 
 image::skip logic.png[image,50%,50%, align=text-center]
 
@@ -142,9 +142,9 @@ Lots of variation, with instructor lecture the most commonly used learning tool 
 
 These are simple counts of mentions in the comments done with QDAMiner or Nvivo.
 
-image::activities.PNG[img, 75%,75%]
-
 image::screenshot QDA miner lite.PNG[QDA,75%,75%]
+
+image::activities.PNG[img, 75%,75%]
 
 image::tech.png[tech,75%,75%]
 
@@ -157,7 +157,30 @@ They think almost everything is effective. I wondered about a relationship betwe
 image::spr17stufreqeff.PNG[img, 75%,75%]
 
 * Do students rate their course highly across several dimensions?
+
+image::spr17stulxptop2_3.png[lxp,75%,75%]
+
+image::spr17stulxp.png[lxp,75%,75%]
+
 * Does a student’s perceived confidence level change by the end of the redesigned course?
+
+image::spr17stuconftop2_2.png[lxp,75%,75%]
+
+image::spr17stuconf.png[confcomm,75%,75%]
+
 * How does re-offering a redesign affect the outcomes?
+
+image::spr17stueffoffer.png[lxp,75%,75%]
+
+Relatively inconclusive. There were not enough re-offered courses to tell.
+
 * How does delivery format affect the outcomes?
+
+Running this produced a comparison similar to above and showed little promise of a relationship between any of the formats and the outcomes. This could be positive if you were worried about poor quality in online courses.
+
+While the purpose of this post is the analysis process, I may include further commentary on the results here in the future.
+
+== Lessons
+
+In the future I intend to program my analyses in Python and standardize my use of Tableau to produce more consistent visuals. I'm pleased with my level of organization but could still improve my naming conventions. I will also continue improving my statistics knowledge.
 
