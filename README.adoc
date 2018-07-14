@@ -148,6 +148,8 @@ image::activities.PNG[img, 75%,75%]
 
 image::tech.png[tech,75%,75%]
 
+Youtube off the charts! Someone should take note.
+
 * Which do they perceive to be effective?
 
 image::spr17stuefftop2_3.png[img, 75%,75%]
@@ -184,5 +186,5 @@ While the purpose of this post is the analysis process, I may include further co
 
 == Lessons
 
-In the future I intend to program my analyses in Python and standardize my use of Tableau to produce more consistent visuals. I'm pleased with my level of organization but could still improve my naming conventions. I will also continue improving my statistics knowledge.
+In the future I intend to program my analyses in Python and standardize my use of Tableau to produce more consistent visuals. I'm pleased with my level of organization but could still improve my naming conventions. I will also continue improving my statistics knowledge. If you can provide feedback, I will return the favor, or at least like your stuff!
 
