@@ -42,6 +42,8 @@ To participate in the CRT program, CSU faculty members outline their ideas for c
 * How does re-offering a redesign affect the outcomes?
 * How does delivery format affect the outcomes?
 
+I determined these goals from the questions the team had already decided to ask, the information available, and the analyses possible, and a vote I elicited from the executive team, testing additional emergent hypotheses as they came up.
+
 == The Data
 The CRT team requested the course ID from faculty who delivered a redesigned course in spring 2017. Using this ID, they acquired through an internal system-wide process the emails of most of the target population. They emailed *3607* students a link to the survey and received *610* responses. Each student received a specific single-use URL to ensure that a survey can only be completed once by each student. The course survey was deployed May 1st, before final exams. The survey was active for 40 days. Instructors were asked to encourage their students to participate in the survey, and students were incentivized to complete it by having their names entered in a prize raffle. One hundred fifty-four incomplete submissions were removed, leaving *456* complete responses. We did this to simplify the analysis. This survey received a response rate of 16.91%.
 
