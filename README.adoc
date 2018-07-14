@@ -123,7 +123,7 @@ This requires creating new metadata variables to explain the value (the dependen
 
 |===
 
-== The Analysis
+== Analysis
 
 I produced visuals of the descriptive statistics, looking for any issues, and moved to the goals.
 
@@ -140,12 +140,24 @@ NOTE: Note the description of how Tableau created this chart, which I left in as
 
 Lots of variation, with instructor lecture the most commonly used learning tool of all. It could be confusing to refer to all of these things as learning tools. I could have instead referred to learning activities and technologies separately, but I'd like to change the conversation around learning and hold all methods to the same accountability: does it work? Plus, is 'instructor audio/video' an activity or a technology? However, it's not good to perturb one's stakeholders.
 
+These are simple counts of mentions in the comments done with QDAMiner or Nvivo.
 
-image::acttivities.png[img, 75%,75%]
+image::activities.PNG[img, 75%,75%]
 
-image::tech.png[img, 75%,75%]
+image::screenshot QDA miner lite.PNG[QDA,75%,75%]
+
+image::tech.png[tech,75%,75%]
+
+* Which do they perceive to be effective?
 
 image::spr17stuefftop2_3.png[img, 75%,75%]
 
+They think almost everything is effective. I wondered about a relationship between these two variables and checked:
 
-* What is the relationship between perceived frequency of use and perceived efficacy?
+image::spr17stufreqeff.PNG[img, 75%,75%]
+
+* Do students rate their course highly across several dimensions?
+* Does a student’s perceived confidence level change by the end of the redesigned course?
+* How does re-offering a redesign affect the outcomes?
+* How does delivery format affect the outcomes?
+
