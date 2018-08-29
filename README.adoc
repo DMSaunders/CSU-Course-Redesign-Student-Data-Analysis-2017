@@ -8,7 +8,7 @@
 :sectnums:
 :icons: font
 ifdef::env-github[]
-:imagesdir: https://github.com/DMSaunders/files/tree/master/CSU_student_data_analysis_github_files/
+:imagesdir: https://github.com/DMSaunders/files/blob/master
 :tip-caption: :bulb:
 :note-caption: :information_source:
 :important-caption: :heavy_exclamation_mark:
