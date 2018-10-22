@@ -19,7 +19,7 @@ endif::[]
 :toclevels: 6
 :toc-title: 
 
-My analysis of a survey sent out to students in redesigned courses at the largest university system in the United States, California State University. I've included some general tips for survey analysis. 
+In a small team, I sent out a survey to most students taking redesigned courses at the largest university system in the United States, California State University, to look at frequency and effectiveness of technology use. I've included some general tips for survey analysis. 
 
 TIP: Tools used: SurveyGizmo, Excel, SPSS, QDAMiner, Nvivo, Tableau
 
