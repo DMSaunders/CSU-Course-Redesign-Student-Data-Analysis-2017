@@ -138,7 +138,7 @@ CAUTION: Do not generate a mean from a Likert scale.
 
 image::spr17stufreqtop2_3.png[img, 75%,75%]
 
-NOTE: Note the description of how Tableau created this chart, which I left in as an example. I don't crop it until I place it in it's final display setting since the description of the active filters helps you trace brack your work and avoid mistakes. It also illustrates why I shaped the data with metadata in the previous steps, as it makes viz creation and documentation possible.
+NOTE: Note the description of how I created this chart in Tableau, which I left in as an example. I don't crop it until I place it in it's final display setting since the description of the active filters helps you trace brack your work and avoid mistakes. It also illustrates why I shaped the data with metadata in the previous steps, as it makes viz creation and documentation possible.
 
 Lots of variation, with instructor lecture the most commonly used learning tool of all. It could be confusing to refer to all of these things as learning tools. I could have instead referred to learning activities and technologies separately, but I'd like to change the conversation around learning and hold all methods to the same accountability: does it work? Plus, is 'instructor audio/video' an activity or a technology? However, it's not good to perturb one's stakeholders.
 
