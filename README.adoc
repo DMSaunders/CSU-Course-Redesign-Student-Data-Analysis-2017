@@ -188,5 +188,5 @@ While the purpose of this post is the analysis process, I may include further co
 
 == Lessons
 
-In the future I intend to program my analyses in Python and standardize my use of Tableau to produce more consistent visuals. I'm pleased with my level of organization but could still improve my naming conventions. I will also continue improving my statistics knowledge. If you can provide feedback, I will return the favor, or at least like your stuff!
+In the future I intend to program my analyses in Python and standardize my use of Tableau to produce more consistent visuals. I'm pleased with my level of organization but could still improve my naming conventions. I will also continue improving my statistics knowledge. Grateful for your feedback.
 
